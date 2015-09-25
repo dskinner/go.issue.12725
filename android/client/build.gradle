@@ -1,0 +1,9 @@
+plugins {
+    id "org.golang.mobile.bind" version "0.2.3"
+}
+
+gobind {
+    pkg = "dasa.cc/issue12725/client"
+    GOPATH = "/home/daniel/local"
+    GO = "/home/daniel/local/go/bin/go"
+}

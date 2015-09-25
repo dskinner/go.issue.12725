@@ -1,0 +1,12 @@
+*.apk
+*.aar
+*.iml
+.idea
+.gradle
+
+# Android Studio build and IDE configuration files.
+android/local.properties
+android/gradlew*
+android/gradle
+android/build
+android/app/build
